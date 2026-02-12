@@ -1,0 +1,110 @@
+[
+  {
+    "id": "custom-furniture",
+    "title": {
+      "ar": "أثاث خشبي مخصص",
+      "en": "Custom Wood Furniture"
+    },
+    "description": {
+      "ar": "تصميم وتصنيع قطع أثاث فريدة حسب الطلب",
+      "en": "Bespoke furniture design and craftsmanship"
+    },
+    "icon": "Sofa",
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=1200",
+    "gallery": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800",
+      "https://images.unsplash.com/photo-1551298370-9d3d53f6a6e2?w=800"
+    ],
+    "features": [
+      {"ar": "تصميم ثلاثي الأبعاد", "en": "3D Design Visualization"},
+      {"ar": "خشب طبيعي 100%", "en": "100% Natural Wood"},
+      {"ar": "ضمان 10 سنوات", "en": "10 Year Warranty"}
+    ],
+    "priceRange": {
+      "ar": "يبدأ من 5000 ريال",
+      "en": "Starting 5,000 SAR"
+    },
+    "order": 1
+  },
+  {
+    "id": "interior-design",
+    "title": {
+      "ar": "تصميم داخلي متكامل",
+      "en": "Full Interior Design"
+    },
+    "description": {
+      "ar": "حلول تصميمية شاملة للمنازل والمكاتب",
+      "en": "Comprehensive design solutions for homes and offices"
+    },
+    "icon": "Layout",
+    "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=1200",
+    "gallery": [
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4f9d?w=800",
+      "https://images.unsplash.com/photo-1616137466211-12c8b056114a?w=800"
+    ],
+    "features": [
+      {"ar": "استشارات هندسية", "en": "Engineering Consultations"},
+      {"ar": "مخططات تنفيذية", "en": "Executive Plans"},
+      {"ar": "اإشراف على التنفيذ", "en": "Implementation Supervision"}
+    ],
+    "priceRange": {
+      "ar": "حسب المساحة",
+      "en": "Based on Area"
+    },
+    "order": 2
+  },
+  {
+    "id": "commercial-fitout",
+    "title": {
+      "ar": "تجهيز المحلات والمكاتب",
+      "en": "Commercial Fit-outs"
+    },
+    "description": {
+      "ar": "ديكورات تجارية تعزز الهوية البصرية لعلامتك",
+      "en": "Commercial decor enhancing your brand identity"
+    },
+    "icon": "Briefcase",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200",
+    "gallery": [
+      "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
+      "https://images.unsplash.com/photo-1577412647305-991150c7d163?w=800"
+    ],
+    "features": [
+      {"ar": "تسليم مفتاح", "en": "Turnkey Solutions"},
+      {"ar": "التزام بالمواعيد", "en": "Deadline Commitment"},
+      {"ar": "مطابقة للكود", "en": "Code Compliant"}
+    ],
+    "priceRange": {
+      "ar": "حسب المشروع",
+      "en": "Project Based"
+    },
+    "order": 3
+  },
+  {
+    "id": "decor-installation",
+    "title": {
+      "ar": "تركيب الديكورات الخشبية",
+      "en": "Wood Decor Installation"
+    },
+    "description": {
+      "ar": "تكسيات جدارية، أسقف خشبية، وأرضيات باركيه",
+      "en": "Wall cladding, wooden ceilings, and parquet flooring"
+    },
+    "icon": "Hammer",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1200",
+    "gallery": [
+      "https://images.unsplash.com/photo-1588610531633-5c74384a3c1e?w=800",
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800"
+    ],
+    "features": [
+      {"ar": "خامات مستوردة", "en": "Imported Materials"},
+      {"ar": "تشطيب دقيق", "en": "Precision Finishing"},
+      {"ar": "صيانة مجانية", "en": "Free Maintenance"}
+    ],
+    "priceRange": {
+      "ar": "يبدأ من 200 ريال/م",
+      "en": "From 200 SAR/m"
+    },
+    "order": 4
+  }
+]

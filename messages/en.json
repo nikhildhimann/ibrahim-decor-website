@@ -1,0 +1,70 @@
+{
+  "HomePage": {
+    "title": "Ibrahim Decor",
+    "consultation": "Request Consultation",
+    "portfolio": "View Portfolio"
+  },
+  "Navigation": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact",
+    "materials": "Materials"
+  },
+  "Hero": {
+    "badge": "Premium Carpentry Since 2010",
+    "title": "Craftsmanship That Speaks, Quality That Lasts",
+    "tagline": "Premium Carpentry & Interior Design in Riyadh",
+    "description": "Transform your space with bespoke wooden furniture and luxury interior design. We bring your vision to life with exceptional craftsmanship.",
+    "cta_primary": "Request Consultation",
+    "cta_secondary": "View Portfolio",
+    "stat_years": "Years Experience",
+    "stat_projects": "Projects Completed",
+    "stat_clients": "Happy Clients",
+    "stat_satisfaction": "Satisfaction Rate"
+  },
+  "Services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive carpentry and interior design solutions tailored to your needs"
+  },
+  "Projects": {
+    "title": "Featured Projects",
+    "subtitle": "Explore our portfolio of luxury residential and commercial projects"
+  },
+  "Testimonials": {
+    "title": "Client Testimonials",
+    "subtitle": "Discover what our clients say about their experience with us"
+  },
+  "Contact": {
+    "title": "Get In Touch",
+    "subtitle": "Ready to start your project? Contact us today for a free consultation",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "hours": "Business Hours",
+    "hours_weekdays": "Sat - Thu",
+    "hours_friday": "Friday",
+    "view_map": "View on Google Maps",
+    "cta_title": "Start Your Project Today",
+    "cta_description": "Get a free consultation and quote for your carpentry or interior design project.",
+    "whatsapp_button": "Chat on WhatsApp",
+    "follow_us": "Follow us on social media"
+  },
+  "Footer": {
+    "rights": "All rights reserved Ibrahim Decor 2024",
+    "founded": "Established",
+    "quick_links": "Quick Links",
+    "contact_info": "Contact Info",
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact",
+    "copyright": "© {year} {name}. All rights reserved."
+  },
+  "About": {
+    "meta_title": "About Us | Ibrahim Decor & Furniture",
+    "meta_description": "Learn about our story, values, and team of skilled craftsmen"
+  }
+}

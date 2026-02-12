@@ -1,0 +1,40 @@
+[
+  {
+    "id": "ibrahim",
+    "name": {
+      "ar": "إبراهيم العتيبي",
+      "en": "Ibrahim Al-Otaibi"
+    },
+    "role": {
+      "ar": "المؤسس والمصمم الرئيسي",
+      "en": "Founder & Lead Designer"
+    },
+    "bio": {
+      "ar": "خبرة 15 عاماً في النجارة والديكور",
+      "en": "15 years experience in carpentry and design"
+    },
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400",
+    "social": {
+      "instagram": "https://instagram.com/ibrahim"
+    }
+  },
+   {
+    "id": "mohammed",
+    "name": {
+      "ar": "محمد علي",
+      "en": "Mohammed Ali"
+    },
+    "role": {
+      "ar": "كبير النجارين",
+      "en": "Head Carpenter"
+    },
+    "bio": {
+      "ar": "متخصص في الحفر على الخشب والزخارف",
+      "en": "Specialist in wood carving and ornamentation"
+    },
+    "image": "https://images.unsplash.com/photo-1537047902294-65a21f2f618c?w=400",
+    "social": {
+      "instagram": "https://instagram.com/mohammed"
+    }
+  }
+]

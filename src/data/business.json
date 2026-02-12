@@ -1,0 +1,80 @@
+{
+  "identity": {
+    "name": {
+      "ar": "إبراهيم للديكور والموبيليا",
+      "en": "Ibrahim Decor & Furniture"
+    },
+    "tagline": {
+      "ar": "حرفية تتحدث، وجودة تدوم",
+      "en": "Craftsmanship That Speaks, Quality That Lasts"
+    },
+    "description": {
+      "ar": "استوديو متخصص في الأعمال الخشبية والديكور الداخلي الفاخر في الرياض",
+      "en": "Premium carpentry and interior design studio in Riyadh"
+    },
+    "founded": 2010,
+    "logo": "/images/logo.png",
+    "favicon": "/images/favicon.ico"
+  },
+  "contact": {
+    "phone": "+96656*****11",
+    "whatsapp": "+96656*****11",
+    "email": "info@gmail.com",
+    "address": {
+      "ar": "شارع فاطمة الزهراء، حي الملز، جرير، الرياض 12837",
+      "en": "Fatimah Al Zahraa St, Al Malaz, Jarir, Riyadh 12837"
+    },
+    "googleMaps": "https://maps.google.com/?q=24.7136,46.6753",
+    "coordinates": {
+      "lat": 24.7136,
+      "lng": 46.6753
+    }
+  },
+  "hours": {
+    "saturday": { "open": "08:00", "close": "23:30" },
+    "sunday": { "open": "08:00", "close": "23:30" },
+    "monday": { "open": "08:00", "close": "23:30" },
+    "tuesday": { "open": "08:00", "close": "23:30" },
+    "wednesday": { "open": "08:00", "close": "23:30" },
+    "thursday": { "open": "08:00", "close": "23:30" },
+    "friday": { "open": "16:00", "close": "23:30" }
+  },
+  "social": {
+    "instagram": "https://instagram.com/_decore_carpentry",
+    "twitter": "https://twitter.com/ibrahimdecor",
+    "snapchat": "https://snapchat.com/add/ibrahimdecor",
+    "tiktok": "https://tiktok.com/@ibrahimdecor"
+  },
+  "seo": {
+    "title": {
+      "ar": "إبراهيم للديكور | أعمال خشبية فاخرة في الرياض",
+      "en": "Ibrahim Decor | Premium Carpentry Riyadh"
+    },
+    "description": {
+      "ar": "تصميم وتنفيذ أثاث خشبي مخصص، ديكور داخلي، أعمال نجارة فاخرة في الرياض",
+      "en": "Custom wooden furniture, interior design, luxury carpentry in Riyadh"
+    },
+    "keywords": [
+      "carpentry",
+      "woodwork",
+      "interior design",
+      "riyadh",
+      "furniture",
+      "ديكور",
+      "نجارة"
+    ]
+  },
+  "branding": {
+    "colors": {
+      "primary": "#8B4513",
+      "secondary": "#D2691E",
+      "accent": "#F4A460",
+      "dark": "#2C1810",
+      "light": "#FDF5E6"
+    },
+    "fonts": {
+      "arabic": "Noto Sans Arabic",
+      "english": "Inter"
+    }
+  }
+}

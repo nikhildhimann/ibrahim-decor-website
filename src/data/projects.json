@@ -1,0 +1,127 @@
+[
+  {
+    "id": "villa-al-malaz",
+    "title": {
+      "ar": "فيلا الملز الفاخرة",
+      "en": "Al-Malaz Luxury Villa"
+    },
+    "category": {
+      "ar": "تصميم داخلي",
+      "en": "Interior Design"
+    },
+    "client": "Private Client",
+    "location": "Al Malaz, Riyadh",
+    "description": {
+      "ar": "تصميم وتنفيذ كامل لديكور فيلا سكنية مع أثاث خشبي مخصص",
+      "en": "Complete interior design and custom woodwork for residential villa"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1200",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1200",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200"
+    ],
+    "materials": ["Oak", "Walnut", "Brass"],
+    "area": "450 sqm",
+    "duration": "3 months",
+    "year": 2024,
+    "featured": true,
+    "testimonial": {
+      "quote": {
+        "ar": "عمل احترافي بمعنى الكلمة، التفاصيل خرافية",
+        "en": "Truly professional work, incredible attention to detail"
+      },
+      "author": "Ahmed Al-Rashid"
+    }
+  },
+  {
+    "id": "modern-majlis",
+    "title": {
+      "ar": "مجلس مودرن بالرياض",
+      "en": "Modern Riyadh Majlis"
+    },
+    "category": {
+      "ar": "أثاث مخصص",
+      "en": "Custom Furniture"
+    },
+    "client": "Mr. Khalid Al-Saud",
+    "location": "Al Olaya, Riyadh",
+    "description": {
+      "ar": "تصميم مجلس رجال مودرن يجمع بين الأصالة والحداثة مع ديكورات خشبية",
+      "en": "Modern men's majlis design combining tradition and modernity with wood decor"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1615529182904-14819c35db37?w=1200",
+    "gallery": [
+      "https://images.unsplash.com/photo-1615529182904-14819c35db37?w=1200",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200"
+    ],
+    "materials": ["Teak", "Marble", "Velvet"],
+    "area": "120 sqm",
+    "duration": "1.5 months",
+    "year": 2023,
+    "featured": true,
+    "testimonial": {
+      "quote": {
+        "ar": "حولوا المجلس لتحفة فنية، شكراً لكم",
+        "en": "Transformed the Majlis into a masterpiece, thank you"
+      },
+      "author": "Khalid Al-Saud"
+    }
+  },
+  {
+    "id": "office-tower-lobby",
+    "title": {
+      "ar": "لوبي برج تجاري",
+      "en": "Commercial Tower Lobby"
+    },
+    "category": {
+      "ar": "تجهيز تجاري",
+      "en": "Commercial Fit-out"
+    },
+    "client": "Riyadh Business Center",
+    "location": "King Fahad Rd, Riyadh",
+    "description": {
+      "ar": "تنفيذ كاونتر استقبال وتكسيات جدارية خشبية فاخرة للمدخل الرئيسي",
+      "en": "Implementation of reception counter and luxury wood wall cladding for main entrance"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200",
+    "gallery": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200",
+      "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200"
+    ],
+    "materials": ["Walnut", "Glass", "Steel"],
+    "area": "200 sqm",
+    "duration": "2 months",
+    "year": 2023,
+    "featured": false,
+    "testimonial": null
+  },
+  {
+    "id": "classic-bedroom",
+    "title": {
+      "ar": "غرفة نوم كلاسيك",
+      "en": "Classic Master Bedroom"
+    },
+    "category": {
+      "ar": "أثاث مخصص",
+      "en": "Custom Furniture"
+    },
+    "client": "Private Client",
+    "location": "Al Hada, Riyadh",
+    "description": {
+      "ar": "سرير وخزانة ملابس وتسريحة بنمط كلاسيكي من خشب البلوط",
+      "en": "Classic style bed, wardrobe, and vanity made of oak wood"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=1200",
+    "gallery": [
+      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=1200",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200"
+    ],
+    "materials": ["Oak", "Gold Leaf"],
+    "area": "60 sqm",
+    "duration": "1 month",
+    "year": 2024,
+    "featured": true,
+    "testimonial": null
+  }
+]

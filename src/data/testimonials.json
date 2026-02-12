@@ -1,0 +1,47 @@
+[
+  {
+    "id": "t1",
+    "name": "Ahmed Al-Rashid",
+    "role": {
+      "ar": "صاحب فيلا",
+      "en": "Villa Owner"
+    },
+    "quote": {
+      "ar": "أفضل تجربة عملتها في الرياض، التزام بالمواعيد وجودة عالية",
+      "en": "Best experience in Riyadh, punctual and high quality"
+    },
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200",
+    "rating": 5,
+    "project": "villa-al-malaz"
+  },
+  {
+    "id": "t2",
+    "name": "Sarah Al-Qahtani",
+    "role": {
+      "ar": "مديرة مكتب",
+      "en": "Office Manager"
+    },
+    "quote": {
+      "ar": "تصميم رائع وتنفيذ متقن، فريق عمل محترف جداً",
+      "en": "Wonderful design and perfect execution, very professional team"
+    },
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200",
+    "rating": 5,
+    "project": "office-tower-lobby"
+  },
+  {
+    "id": "t3",
+    "name": "Khalid Al-Saud",
+    "role": {
+      "ar": "عميل VIP",
+      "en": "VIP Client"
+    },
+    "quote": {
+      "ar": "الاهتمام بالتفاصيل الدقيقة هو ما يميز إبراهيم للديكور",
+      "en": "Attention to minute details is what distinguishes Ibrahim Decor"
+    },
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200",
+    "rating": 5,
+    "project": "modern-majlis"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "home",
+    "label": {
+      "ar": "الرئيسية",
+      "en": "Home"
+    },
+    "path": "/"
+  },
+  {
+    "id": "services",
+    "label": {
+      "ar": "خدماتنا",
+      "en": "Services"
+    },
+    "path": "/services"
+  },
+  {
+    "id": "projects",
+    "label": {
+      "ar": "المشاريع",
+      "en": "Projects"
+    },
+    "path": "/projects"
+  },
+  {
+    "id": "about",
+    "label": {
+      "ar": "عن الاستوديو",
+      "en": "About Us"
+    },
+    "path": "/about"
+  },
+  {
+    "id": "contact",
+    "label": {
+      "ar": "تواصل معنا",
+      "en": "Contact"
+    },
+    "path": "/contact"
+  }
+]

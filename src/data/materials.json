@@ -1,0 +1,70 @@
+[
+  {
+    "id": "oak",
+    "name": {
+      "ar": "البلوط",
+      "en": "Oak Wood"
+    },
+    "description": {
+      "ar": "خشب قوي ومتين، مثالي للأثاث الكلاسيكي",
+      "en": "Strong and durable, perfect for classic furniture"
+    },
+    "color": "#D4A574",
+    "texture": "/textures/oak-wood.jpg",
+    "roughness": 0.8,
+    "metalness": 0.0,
+    "origin": "European",
+    "price": "Premium"
+  },
+  {
+    "id": "walnut",
+    "name": {
+      "ar": "الجوز",
+      "en": "Walnut Wood"
+    },
+    "description": {
+      "ar": "خشب داكن غني، يضفي فخامة ودفء",
+      "en": "Rich dark wood, adds luxury and warmth"
+    },
+    "color": "#5C4033",
+    "texture": "/textures/walnut-wood.jpg",
+    "roughness": 0.7,
+    "metalness": 0.1,
+    "origin": "American",
+    "price": "Luxury"
+  },
+  {
+    "id": "pine",
+    "name": {
+      "ar": "الصنوبر",
+      "en": "Pine Wood"
+    },
+    "description": {
+      "ar": "خشب فاتح اللون، ممتاز للديكورات الحديثة",
+      "en": "Light colored wood, excellent for modern decor"
+    },
+    "color": "#E5C39C",
+    "texture": "/textures/pine-wood.jpg",
+    "roughness": 0.9,
+    "metalness": 0.0,
+    "origin": "Canadian",
+    "price": "Standard"
+  },
+  {
+    "id": "teak",
+    "name": {
+      "ar": "الساج",
+      "en": "Teak Wood"
+    },
+    "description": {
+      "ar": "مقاوم للرطوبة، مثالي للأماكن الخارجية",
+      "en": "Moisture resistant, ideal for outdoors"
+    },
+    "color": "#A05F2D",
+    "texture": "/textures/teak-wood.jpg",
+    "roughness": 0.6,
+    "metalness": 0.0,
+    "origin": "Asian",
+    "price": "Premium"
+  }
+]
