@@ -117,17 +117,14 @@ _حرفية تتحدث، وجودة تدوم_
 
 - **Live Website**: [ibrahim-decor.vercel.app](https://ibrahim-decor.vercel.app)
 - **GitHub Repository**: [nikhildhimann/ibrahim-decor-website](https://github.com/nikhildhimann/ibrahim-decor-website.git)
-- **Location**: [Riyadh, Saudi Arabia](https://maps.google.com/?q=24.7136,46.6753)
-
 ---
 
 ## 📬 Contact us
 
-- **Instagram**: [\_decore_carpentry](https://instagram.com/_decore_carpentry)
-- **WhatsApp**: [+966 56 **\* **11](https://wa.me/966560000011)
-- **Email**: [info@ibrahimdecor.com](mailto:info@gmail.com)
+- **Instagram**: [\nikhil_dhiman___](https://instagram.com/nikhil_dhiman___)
+- **Email**: [nikhildhimaann@gmail.com](nikhildhimaann@gmail.com)
 
 <div align="center">
-  <p>Built with ❤️ by Ibrahim Decor Team</p>
+  <p>Built with ❤️ by Nikhil Dhiman</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B4513&height=100&section=footer" width="100%" />
 </div>
