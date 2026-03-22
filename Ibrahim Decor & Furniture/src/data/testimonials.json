@@ -10,7 +10,7 @@
       "ar": "أفضل تجربة عملتها في الرياض، التزام بالمواعيد وجودة عالية",
       "en": "Best experience in Riyadh, punctual and high quality"
     },
-    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200",
+    "avatar": "/images/remote/photo-1507003211169-0a1dd7228f2d.jpg",
     "rating": 5,
     "project": "villa-al-malaz"
   },
@@ -25,7 +25,7 @@
       "ar": "تصميم رائع وتنفيذ متقن، فريق عمل محترف جداً",
       "en": "Wonderful design and perfect execution, very professional team"
     },
-    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200",
+    "avatar": "/images/remote/photo-1438761681033-6461ffad8d80.jpg",
     "rating": 5,
     "project": "office-tower-lobby"
   },
@@ -40,7 +40,7 @@
       "ar": "الاهتمام بالتفاصيل الدقيقة هو ما يميز إبراهيم للديكور",
       "en": "Attention to minute details is what distinguishes Ibrahim Decor"
     },
-    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200",
+    "avatar": "/images/remote/photo-1472099645785-5658abf4ff4e.jpg",
     "rating": 5,
     "project": "modern-majlis"
   }

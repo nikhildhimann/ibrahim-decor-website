@@ -15,11 +15,11 @@
       "ar": "تصميم وتنفيذ كامل لديكور فيلا سكنية مع أثاث خشبي مخصص",
       "en": "Complete interior design and custom woodwork for residential villa"
     },
-    "thumbnail": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1200",
+    "thumbnail": "/images/remote/photo-1600210492486-724fe5c67fb0.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1200",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200"
+      "/images/remote/photo-1600210492486-724fe5c67fb0.jpg",
+      "/images/remote/photo-1600585154340-be6161a56a0c.jpg",
+      "/images/remote/photo-1600607687939-ce8a6c25118c.jpg"
     ],
     "materials": ["Oak", "Walnut", "Brass"],
     "area": "450 sqm",
@@ -50,10 +50,10 @@
       "ar": "تصميم مجلس رجال مودرن يجمع بين الأصالة والحداثة مع ديكورات خشبية",
       "en": "Modern men's majlis design combining tradition and modernity with wood decor"
     },
-    "thumbnail": "https://images.unsplash.com/photo-1615529182904-14819c35db37?w=1200",
+    "thumbnail": "/images/remote/photo-1615529182904-14819c35db37.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1615529182904-14819c35db37?w=1200",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200"
+      "/images/remote/photo-1615529182904-14819c35db37.jpg",
+      "/images/remote/photo-1600607687939-ce8a6c25118c.jpg"
     ],
     "materials": ["Teak", "Marble", "Velvet"],
     "area": "120 sqm",
@@ -84,10 +84,10 @@
       "ar": "تنفيذ كاونتر استقبال وتكسيات جدارية خشبية فاخرة للمدخل الرئيسي",
       "en": "Implementation of reception counter and luxury wood wall cladding for main entrance"
     },
-    "thumbnail": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200",
+    "thumbnail": "/images/remote/photo-1497366216548-37526070297c.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200",
-      "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200"
+      "/images/remote/photo-1497366216548-37526070297c.jpg",
+      "/images/remote/photo-1497215842964-222b430dc094.jpg"
     ],
     "materials": ["Walnut", "Glass", "Steel"],
     "area": "200 sqm",
@@ -112,10 +112,10 @@
       "ar": "سرير وخزانة ملابس وتسريحة بنمط كلاسيكي من خشب البلوط",
       "en": "Classic style bed, wardrobe, and vanity made of oak wood"
     },
-    "thumbnail": "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=1200",
+    "thumbnail": "/images/remote/photo-1595515106969-1ce29566ff1c.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=1200",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200"
+      "/images/remote/photo-1595515106969-1ce29566ff1c.jpg",
+      "/images/remote/photo-1600607687939-ce8a6c25118c.jpg"
     ],
     "materials": ["Oak", "Gold Leaf"],
     "area": "60 sqm",

@@ -110,7 +110,7 @@ export default async function AboutPage({
             </div>
             <div className="relative h-96 rounded-3xl overflow-hidden shadow-2xl">
               <Image
-                src="https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?w=1200"
+                src="/images/remote/photo-1556912172-45b7abe8b7e1.jpg"
                 alt="Workshop"
                 fill
                 className="object-cover"

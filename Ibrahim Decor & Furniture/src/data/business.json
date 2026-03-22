@@ -9,25 +9,25 @@
       "en": "Craftsmanship That Speaks, Quality That Lasts"
     },
     "description": {
-      "ar": "استوديو متخصص في الأعمال الخشبية والديكور الداخلي الفاخر في الرياض",
-      "en": "Premium carpentry and interior design studio in Riyadh"
+      "ar": "استوديو متخصص في الأعمال الخشبية والديكور الداخلي الفاخر",
+      "en": "Premium carpentry and interior design studio"
     },
     "founded": 2010,
     "logo": "/images/logo.png",
     "favicon": "/images/favicon.ico"
   },
   "contact": {
-    "phone": "+96656*****11",
-    "whatsapp": "+96656*****11",
-    "email": "info@gmail.com",
+    "phone": "+91 7876750648",
+    "whatsapp": "+91 7876750648",
+    "email": "nikhilstackron@gmail.com",
     "address": {
-      "ar": "شارع فاطمة الزهراء، حي الملز، جرير، الرياض 12837",
-      "en": "Fatimah Al Zahraa St, Al Malaz, Jarir, Riyadh 12837"
+      "ar": "حي أونا، هيماشل براديش، الهند",
+      "en": "Una, Himachal Pradesh, India"
     },
-    "googleMaps": "https://maps.google.com/?q=24.7136,46.6753",
+    "googleMaps": "https://maps.google.com/?q=Una,Himachal+Pradesh,India",
     "coordinates": {
-      "lat": 24.7136,
-      "lng": 46.6753
+      "lat": 31.4709,
+      "lng": 76.2735
     }
   },
   "hours": {
@@ -47,18 +47,19 @@
   },
   "seo": {
     "title": {
-      "ar": "إبراهيم للديكور | أعمال خشبية فاخرة في الرياض",
-      "en": "Ibrahim Decor | Premium Carpentry Riyadh"
+      "ar": "إبراهيم للديكور | أعمال خشبية فاخرة",
+      "en": "Ibrahim Decor | Premium Carpentry"
     },
     "description": {
-      "ar": "تصميم وتنفيذ أثاث خشبي مخصص، ديكور داخلي، أعمال نجارة فاخرة في الرياض",
-      "en": "Custom wooden furniture, interior design, luxury carpentry in Riyadh"
+      "ar": "تصميم وتنفيذ أثاث خشبي مخصص، ديكور داخلي، أعمال نجارة فاخرة",
+      "en": "Custom wooden furniture, interior design, luxury carpentry"
     },
     "keywords": [
       "carpentry",
       "woodwork",
       "interior design",
-      "riyadh",
+      "una",
+      "himachal pradesh",
       "furniture",
       "ديكور",
       "نجارة"
