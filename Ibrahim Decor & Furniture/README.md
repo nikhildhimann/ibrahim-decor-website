@@ -1,7 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/nikhildhimann/ibrahim-decor-website/main/public/images/logo.png" alt="Ibrahim Decor Logo" width="120" height="auto" />
-
+  
 # 🪚 Ibrahim Decor & Furniture
 
 ### إبراهيم للديكور والموبيليا
